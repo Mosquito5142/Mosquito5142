@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/header.gif" alt="Vachiravit Doungdee Header GIF" width="700"/>
+  <img src="./images/header.gif" alt="Vachiravit Doungdee Header GIF" width="300"/>
 </p>
 <h1 align="center">Hi 👋, I'm Vachiravit Doungdee</h1>
 <h3 align="center"><b>A Developer from Thai</b></h3>
