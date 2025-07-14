@@ -45,3 +45,4 @@
 
 <p><img src="https://streak-stats.demolab.com?user=Mosquito5142&theme=dark&locale=th&short_numbers=true" alt="GitHub Streak" alt="VachiravitDoungdee" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mosquito5142&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mosquito5142" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mosquito5142&show_icons=true&theme=radical" alt="Mosquito5142" /></p>
