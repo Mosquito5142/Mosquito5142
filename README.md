@@ -23,10 +23,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ชื่อโปรไฟล์ของคุณ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/ชื่อผู้ใช้ทวิตเตอร์ของคุณ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="mailto:อีเมลของคุณ@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" /></a>
-<a href="https://your-personal-website.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio" height="30" /></a>
-</p>
 
 ---
 
@@ -36,15 +33,17 @@
 
 <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 ---
@@ -59,10 +58,6 @@
 
 ---
 
-<h2 align="left">สถิติ GitHub ของฉัน... เพราะอะไรจะไม่โชว์ล่ะ?</h2>
+<h2 align="left">สถิติ GitHub</h2>
 
-<p><img align="center" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mosquito5142&theme=dark&locale=th&short_numbers=true" alt="GitHub Streak" alt="VachiravitDoungdee" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VachiravitDoungdee&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="VachiravitDoungdee" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VachiravitDoungdee&show_icons=true&locale=en&theme=tokyonight" alt="VachiravitDoungdee" /></p>
+<p><img src="https://streak-stats.demolab.com?user=Mosquito5142&theme=dark&locale=th&short_numbers=true" alt="GitHub Streak" alt="VachiravitDoungdee" /></p>
