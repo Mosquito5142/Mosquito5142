@@ -44,4 +44,4 @@
 <h2 align="left">สถิติ GitHub</h2>
 
 <p><img src="https://streak-stats.demolab.com?user=Mosquito5142&theme=dark&locale=th&short_numbers=true" alt="GitHub Streak" alt="VachiravitDoungdee" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosquito5142)](https://github.com/Mosquito5142/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito5142&hide_progress=true)
