@@ -33,13 +33,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mosquito5142&theme=highcontrast&hide_border=true"
-       alt="GitHub Streak Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mosquito5142&show_icons=true&theme=radical"
-       height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito5142&layout=compact&theme=tokyonight"
-       height="170"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mosquito5142&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mosquito5142&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mosquito5142&theme=github_dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mosquito5142&theme=github-dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Mosquito5142&theme=darkhub&row=1&margin-w=15)
+![Followers](https://img.shields.io/github/followers/Mosquito5142?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Mosquito5142?style=for-the-badge)
+![Repos](https://img.shields.io/github/repos/Mosquito5142?style=for-the-badge)
