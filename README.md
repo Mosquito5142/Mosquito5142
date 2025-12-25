@@ -70,14 +70,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mosquito5142&theme=darkhub&row=1&margin-w=15"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Mosquito5142?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/Mosquito5142?style=for-the-badge"/>
