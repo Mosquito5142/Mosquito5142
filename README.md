@@ -2,21 +2,21 @@
   <img src="./images/header.gif" alt="Vachiravit Doungdee Header" width="300"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Vachiravit Doungdee</h1>
+<h1 align="center">Hi , I'm Vachiravit Doungdee</h1>
 <h3 align="center"><b>A Developer from Thailand 🇹🇭</b></h3>
 
 ---
 
-### 🚀 เกี่ยวกับฉัน
+### เกี่ยวกับฉัน
 
 สวัสดีครับ! ผมชื่อ **วชิรวิทย์ ดวงดี (มอส)**  
 เป็นนักพัฒนาซอฟต์แวร์ที่หลงใหลในการสร้างเว็บแอป, ระบบหลังบ้าน  
 และเครื่องมือที่ช่วยแก้ปัญหาได้จริง  
-ผมชอบเรียนรู้เทคโนโลยีใหม่ ๆ และพัฒนาโปรเจกต์ของตัวเองอย่างต่อเนื่อง 🚀
+ผมชอบเรียนรู้เทคโนโลยีใหม่ ๆ และพัฒนาโปรเจกต์ของตัวเองอย่างต่อเนื่อง 
 
 ---
 
-### 📬 ติดต่อผม
+### ติดต่อผม
 
 <p align="left">
   <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ ภาษาและเครื่องมือ
+### ภาษาและเครื่องมือ
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Overview
+### GitHub Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mosquito5142&theme=github_dark"/>
@@ -57,7 +57,7 @@
 
 ---
 
-### 📈 Languages & Activity
+### Languages & Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mosquito5142&theme=github_dark"/>
